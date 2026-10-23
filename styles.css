@@ -30,12 +30,6 @@ input[type="number"]{
   border-radius: 3px;
 
 }
-select{
-    width: 300px;
-    padding: 10px;
-    border: 1px solid #ccc;
-    border-radius: 5px;
-}
  
 button[type="submit"] {
   background-color: #007BFF;
